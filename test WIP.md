@@ -102,6 +102,6 @@ classDiagram
   }
 ```
 
-[Document link](#)
+[Document link](# "test tooltip!")
 
 [Hover me](https://example.com "I'm a tooltip!")
