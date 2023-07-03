@@ -20,3 +20,15 @@ Content Cell | Content Cell  | Content Cell
 
 ### test sub sub title
 ![wbs](https://github.com/rahmadzuhairi/documents/assets/127093988/4f758d9a-0104-4161-8c8a-e71c1654d9fa)
+
+
+### test flow chart
+
+``` mermaid
+graph LR
+  A[Start] --> B{Error?};
+  B -->|Yes| C[Hmm...];
+  C --> D[Debug];
+  D --> B;
+  B ---->|No| E[Yay!];
+```
