@@ -91,7 +91,7 @@ classDiagram
   }
 ```
 
-!!! info inline end "Lorem ipsum"
+!!! info inline "Lorem ipsum"
 
     Lorem ipsum dolor sit amet, consectetur
     adipiscing elit. Nulla et euismod nulla.
