@@ -1,16 +1,8 @@
-# 概要
-
 ## 目的
 
-lorem ipsum dolor sit amet
+インスタンスのFargateを作成する。
 
-## できたこと
-
-lorem ipsum dolor sit amet
-
-スクショ
-
-## 作成方法
+## 作成方法/インストール方法
   1. `cd test`
      
     スクショ
@@ -29,7 +21,8 @@ lorem ipsum dolor sit amet
 スクショ
 
 ##　原因
-1.lorem
+
+1. lorem
 2. ipsum
 3. dolor
 4. sit
@@ -42,7 +35,8 @@ lorem ipsum dolor sit amet
     スクショ
     
   2. a
-  3. a
+     
+  4. a
   
 
 ##　参考
