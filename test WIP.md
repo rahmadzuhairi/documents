@@ -91,4 +91,4 @@ classDiagram
   }
 ```
 
-[Subscribe to our newsletter](#){ .md-button }
+[Document link](#)
