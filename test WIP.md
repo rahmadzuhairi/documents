@@ -17,6 +17,10 @@ test text format
 }
 ```
 
+``` py
+import tensorflow as tf
+```
+
 ***
 
 First Header | Second Header | Third Header
